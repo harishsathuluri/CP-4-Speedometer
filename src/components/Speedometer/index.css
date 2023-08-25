@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-container{
+    background-color: #07080c;
+    height: 100vh;
+}
+
+.heading{
+    font-family: "Roboto";
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.speedEle{
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.description{
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #cbd5e1;
+}
+
+.button1{
+    background-color: blue;
+    border-radius: 10px;
+    color: #ffffff;
+    height: 35px;
+    width: 120px;
+}
+
+.button2{
+    background-color: transparent;
+    border-radius: 10px;
+    color: #94a3b8;
+    height: 35px;
+    width: 120px;
+    border: solid;
+    border-color: #94a3b8;
+}
